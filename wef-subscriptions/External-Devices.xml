@@ -38,9 +38,9 @@
     </QueryList>]]></Query>
   <ReadExistingEvents>true</ReadExistingEvents>
   <TransportName>http</TransportName>
-  <ContentFormat>RenderedText</ContentFormat>
+  <ContentFormat>Events</ContentFormat>
   <Locale Language="en-US"/>
-  <LogFile>WEC3-External-Devices</LogFile>
+  <LogFile>ForwardedEvents</LogFile>
   <AllowedSourceNonDomainComputers/>
   <AllowedSourceDomainComputers>O:NSG:NSD:(A;;GA;;;DC)(A;;GA;;;NS)(A;;GA;;;DD)</AllowedSourceDomainComputers>
 </Subscription>
